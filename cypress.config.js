@@ -8,4 +8,5 @@ module.exports = defineConfig({
     },
     supportFile: false
   },
+  pageLoadTimeout: 300000
 });
